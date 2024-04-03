@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi 👋 My Names is Arnis Plāters
 
-<!--
-**Arnispl/Arnispl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Passionate C# Developer 👨‍💻
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a dedicated C# developer with a love for crafting elegant solutions and bringing ideas to life through code. Whether it's building robust applications, optimizing algorithms, or diving into the intricacies of .NET development, I'm always up for the challenge. Join me as I explore the exciting world of C# and share my journey through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm from Latvia
+- 📫 How to reach me: arnis.platers@gmail.com
+- 🧠 I'm learning API , SQL
+
+Skills
+- C#
+- .NET Framework
+- ASP.NET Core
+- SQL
+- Git
+- Object-Oriented Programming (OOP)
+- Problem Solving
+- Team Collaboration
+- Communication
+- Continuous Learning
