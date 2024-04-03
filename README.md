@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a dedicated C# developer with a love for craft
 
 - 🌍 I'm from Latvia
 - 📫 How to reach me: arnis.platers@gmail.com
-- 🧠 I'm learning API , SQL
+- 🧠 I'm learning API , Python, DataScience
 
 Skills
 - C#
